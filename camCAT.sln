@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camCAT", "camCAT\camCAT.csproj", "{5BC9F356-CBD5-46FB-AE40-9CCA21878456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{05F94C14-AE5C-403D-813A-93CEAEFCAB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F94C14-AE5C-403D-813A-93CEAEFCAB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F94C14-AE5C-403D-813A-93CEAEFCAB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F94C14-AE5C-403D-813A-93CEAEFCAB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F94C14-AE5C-403D-813A-93CEAEFCAB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC9F356-CBD5-46FB-AE40-9CCA21878456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC9F356-CBD5-46FB-AE40-9CCA21878456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC9F356-CBD5-46FB-AE40-9CCA21878456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC9F356-CBD5-46FB-AE40-9CCA21878456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = camCAT\camCAT.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = @\n ${FileName}\n \n Author:\n      ${AuthorName} <${AuthorEmail}>\n\n Copyright (c) ${Year} ${CopyrightHolder}\n\n This library is free software; you can redistribute it and/or modify\n it under the terms of the GNU Lesser General Public License as\n published by the Free Software Foundation; either version 2.1 of the\n License, or (at your option) any later version.\n\n This library is distributed in the hope that it will be useful, but\n WITHOUT ANY WARRANTY; without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU\n Lesser General Public License for more details.\n\n You should have received a copy of the GNU Lesser General Public\n License along with this library; if not, write to the Free Software\n Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+		$1.IncludeInNewFiles = True
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.ChangeLogPolicy = $3
+		$3.UpdateMode = None
+		$3.MessageStyle = $4
+		$4.LineAlign = 0
+		$3.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal

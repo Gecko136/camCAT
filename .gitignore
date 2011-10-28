@@ -1,0 +1,9 @@
+parser.fs
+parser.fsi
+lexer.fs
+*.exe
+*.dll
+*.dll.mdb
+*.exe.mdb
+*.pidb
+*.userprefs
